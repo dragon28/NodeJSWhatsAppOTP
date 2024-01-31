@@ -20,7 +20,7 @@ Open a terminal or command prompt to run or start the server:
 
 `node server.js`
 
-make sure to scan the WhatsApp QR code display.
+Please scan the WhatsApp QR code display in order for the software to login into the WhatsApp account.
 
 Client (client.js):
 
