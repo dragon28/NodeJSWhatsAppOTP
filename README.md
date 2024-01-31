@@ -24,7 +24,9 @@ make sure to scan the WhatsApp QR code display.
 
 Client (client.js):
 
-Open a terminal or command prompt to start the server:
+Before running the client.sj, make sure to change the phone number (`var phone_number = '';` at line 11 where the phone number should only be numeric value e.g 6581234567)
+
+Open a terminal or command prompt to run or start the server:
 
 `node client.js`
 
