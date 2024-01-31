@@ -2,6 +2,8 @@
 
 Note: This is just a mock test for nodejs to cmmunicate with the software developer WhatsApp acccount in order to send new message or OTP.
 
+Please install NodeJS version 12++, for more informatin please visit `https://nodejs.org/`
+
 Clone the github respository: 
 
 `git clone https://github.com/dragon28/NodeJSWhatsAppOTP.git`
