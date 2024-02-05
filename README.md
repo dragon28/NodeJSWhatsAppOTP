@@ -1,6 +1,6 @@
 # NodeJSWhatsAppOTP
 
-Note: This is just a mock test for nodejs to cmmunicate with the software developer WhatsApp acccount in order to send new message or OTP.
+Note: This is just a test for nodejs to cmmunicate with the software developer WhatsApp acccount in order to send new message or OTP.
 
 Please install NodeJS version 12++, for more informatin please visit `https://nodejs.org/`
 
